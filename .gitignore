@@ -1,0 +1,22 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.jre
+*.java
+.classpath
+.project
+.idea/
+target/
+
+# IntelliJ IDEA specific
+.idea/*
+*.iml
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
